@@ -607,7 +607,7 @@ export const quizzes = [
   ]
 },
 {
-    "id": 4
+    "id": 4,
   "chapter_title": "Wound Management",
   "questions": [
     {
@@ -835,7 +835,7 @@ export const quizzes = [
   ]
 },
 {
-  "id": 5
+  "id": 5,
   "chapter_title": "Cardiovascular Disorders",
   "questions": [
     {
