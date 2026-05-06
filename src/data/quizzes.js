@@ -4458,7 +4458,7 @@ export const quizzes = [
   ]
 },
 {
-  "id": 12
+  "id": 12,
   "chapter_title": "Neurological Disorders",
   "questions": [
     {
